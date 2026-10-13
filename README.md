@@ -1,5 +1,5 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="profile/assets/header-dark.svg">
   <img alt="Schnebel-IT Solutions – Software für den IT-Betrieb" src="assets/header-light.svg" width="100%">
 </picture>
 
@@ -11,8 +11,8 @@ Wir bauen Werkzeuge für Menschen, die IT betreiben. Was sich im eigenen Alltag 
 
 <a href="https://starcontrol.app">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/starcontrol-dark.svg">
-    <img alt="starcontrol.app – Das zentrale Cockpit für STARFACE-Anlagen" src="assets/starcontrol-light.svg" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="profile/assets/starcontrol-dark.svg">
+    <img alt="starcontrol.app – Das zentrale Cockpit für STARFACE-Anlagen" src="profile/assets/starcontrol-light.svg" width="100%">
   </picture>
 </a>
 
